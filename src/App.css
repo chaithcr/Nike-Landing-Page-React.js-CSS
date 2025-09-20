@@ -50,6 +50,7 @@ button{
     border-radius: 6px;
     background-color: brown;
     text-align: center;
+    display:inline-block;
 }
 .Hero{
     display: flex;
